@@ -16,4 +16,4 @@ Python · TensorFlow · Keras · OpenCV · Streamlit · Google Colab
 Kaggle — Covid19 Image Dataset (251 chest X-ray images)
 
 ## Live Demo
-[Coming soon]
+https://anikettiwari670-covid-19-image-detection-app-szcztn.streamlit.app
